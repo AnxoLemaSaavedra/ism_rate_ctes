@@ -1,4 +1,11 @@
 # ism_rate_ctes
+
+This is a Beta version, the program is still in development. 
+
+It works well (I think), but the standard output is so ugly, please don't be angry.
+
+<br>
+
 This program calculates rate constants of interest for ISM processes.
 
 This program calculates three types of rate constants:
