@@ -4,7 +4,9 @@ This is a Beta version, the program is still in development.
 
 It works well (I think), but the standard output is so ugly, please don't be angry.
 
-<br>
+
+
+# Description
 
 This program calculates rate constants of interest for ISM processes.
 
@@ -95,6 +97,31 @@ Due to this effect, the centrifugal barrier appears.
 
 In general, including the rotation does not affect significantly to the reaction rate constant.
 If you are not sure about its importance, just not include it.
+
+
+# How to cite
+To cite this specific package, please use this:
+
+- Lema-Saavedra, A. **(2024)** *ism_rate_ctes* [Software]. GitHub: [https://github.com/AnxoLemaSaavedra/ism_rate_ctes/](https://github.com/AnxoLemaSaavedra/ism_rate_ctes/)
+
+The common library used in this program were developed by Dr. David Ferro-Costas,
+and should be cited as:
+
+
+- D. Ferro-Costas, D. G. Truhlar, A. Fernández-Ramos, Pilgrim - version 2021.5
+(University of Minneapolis, Minnesota, MN, and Universidade de Santiago
+de Compostela, Spain, **2021**). https://github.com/cathedralpkg/Pilgrim
+
+- D. Ferro-Costas, D. G. Truhlar, A. Fernández-Ramos (**2020**). “Pilgrim: A
+thermal rate constant calculator and a chemical kinetics simulator”. *Comput.
+Phys. Commun.*, **256**, 107457.
+
+- D. Ferro-Costas and A. Fernández-Ramos (**2020**). “A Combined Systematic-Stochastic Algorithm for the Conformational Search in Flexible Acyclic Molecules”. *Front. Chem.*, **8**:16.
+
+- D. Ferro-Costas, I. Mosquera-Lois and A. Fernández-Ramos (**2021**). “_TorsiFlex_: an automatic generator of torsional conformers. Application to the twenty proteinogenic amino acids”. *J. Cheminformatics.*, **13**:100.
+
+- D. Ferro-Costas, M. N. D. S. Cordeiro, D. G. Truhlar, A. Fernández-Ramos, Comput.  Phys. Commun. 232, 190-205, 2018.
+
 
 
 ## References
