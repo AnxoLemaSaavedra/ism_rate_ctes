@@ -2,11 +2,12 @@
 
 *************************************
 ** Main author: Anxo Lema-Saavedra **
-** Date:        06/06/2024         **
+** Date:        29/10/2024         **
 *************************************
 
 This program was developed by Anxo Lema-Saavedra
 at the Universidade de Santiago de Compostela (Galiza).
+     https://github.com/AnxoLemaSaavedra/ism_rate_ctes
 
 It employs the common library created by Dr. David Ferro-Costas
 from the Universidade de Santiago de Compostela and available
