@@ -122,7 +122,7 @@ The input must have the following structure:
 #----------------------------------------------------------------------------#
 def handle_options(args):
 
-    allowed_options = ["--input", "-i", "--help", "-h", "--assoc", "--radiative", "--rrkm"]
+    allowed_options = ["--input", "-i", "--help", "-h", "--assoc", "--rad", "--rrkm"]
     for option in args:
         if option.startswith("-") and option not in allowed_options:
             print(f"Error! The option {option} is not valid!\n\n")
@@ -140,7 +140,7 @@ def handle_options(args):
 
     if "--help"      in args or "-h" in args: help_opt = True
     if "--assoc"     in args                : association = True
-    if "--radiative" in args                : radiative = True
+    if "--rad"       in args                : radiative = True
     if "--rrkm"      in args                : rrkm = True
 
     if "--input" in args:
