@@ -104,23 +104,13 @@ To cite this specific package, please use this:
 
 - Lema-Saavedra, A. **(2024)** *ism_rate_ctes* [Software]. GitHub: [https://github.com/AnxoLemaSaavedra/ism_rate_ctes/](https://github.com/AnxoLemaSaavedra/ism_rate_ctes/)
 
-The common library used in this program were developed by Dr. David Ferro-Costas,
-and should be cited as:
+This program uses the "common" library of the Cathedral Package (included in Pilgrim, TorsiFlex and Q2DTor),
+developed by D. Ferro-Costas. Therefore, the following cites must be included when citing this program:
 
+- Ferro-Costas, D. and Fernández-Ramos, A. (**2021**), *The cathedral package*. [https://​github.​com/​cathe​dralp​kg](https://​github.​com/​cathe​dralp​kg) (Accessed October 30, 2024)
 
-- D. Ferro-Costas, D. G. Truhlar, A. Fernández-Ramos, Pilgrim - version 2021.5
-(University of Minneapolis, Minnesota, MN, and Universidade de Santiago
-de Compostela, Spain, **2021**). https://github.com/cathedralpkg/Pilgrim
+- Ferro-Costas, D. and Fernández-Ramos, A. (**2020**), “New computational tools for chemical kinetics: the Cathedral Package”, *Theor. Chem. Acc.*, **142**:76.
 
-- D. Ferro-Costas, D. G. Truhlar, A. Fernández-Ramos (**2020**). “Pilgrim: A
-thermal rate constant calculator and a chemical kinetics simulator”. *Comput.
-Phys. Commun.*, **256**, 107457.
-
-- D. Ferro-Costas and A. Fernández-Ramos (**2020**). “A Combined Systematic-Stochastic Algorithm for the Conformational Search in Flexible Acyclic Molecules”. *Front. Chem.*, **8**:16.
-
-- D. Ferro-Costas, I. Mosquera-Lois and A. Fernández-Ramos (**2021**). “_TorsiFlex_: an automatic generator of torsional conformers. Application to the twenty proteinogenic amino acids”. *J. Cheminformatics.*, **13**:100.
-
-- D. Ferro-Costas, M. N. D. S. Cordeiro, D. G. Truhlar, A. Fernández-Ramos, Comput.  Phys. Commun. 232, 190-205, 2018.
 
 
 
