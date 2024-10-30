@@ -10,7 +10,8 @@ It works well (I think), but the standard output is so ugly, please don't be ang
 
 This program calculates rate constants of interest for ISM processes.
 
-This program calculates three types of rate constants:
+This program reads the information (energy, frequencies, etc) from Gaussian
+output files and calculates three types of rate constants:
 
   - RRKM. Calculates the unimolecular reaction rate constant
     under the RRKM approximation for a given path.
@@ -79,9 +80,9 @@ reaction_coord   3 4 reverse      # optional: number of atoms defining
                                   # If reverse order is decreasing
 
 # Names                                 
-reactants        AcNT OH          # Names of reactant files
-complex          GLN              # Name of Complex/Product file
-path             DISSOCIATION     # Name of directory with path points
+reactants        AcNT OH          # Names of reactant(s) Gaussian output files
+complex          GLN              # Name of Complex/Product Gaussian output file
+path             DISSOCIATION     # Name of directory with path points Gaussian output files
                                   # If only one point in the directory
                                   # standard RRKM instead of variational
 ```
