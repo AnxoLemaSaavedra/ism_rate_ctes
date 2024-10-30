@@ -105,9 +105,9 @@ To cite this specific package, please use this:
 - Lema-Saavedra, A. **(2024)** *ism_rate_ctes* [Software]. GitHub: [https://github.com/AnxoLemaSaavedra/ism_rate_ctes/](https://github.com/AnxoLemaSaavedra/ism_rate_ctes/)
 
 This program uses the "common" library of the Cathedral Package (included in Pilgrim, TorsiFlex and Q2DTor),
-developed by D. Ferro-Costas. Therefore, the following cites must be included when citing this program:
+developed by D. Ferro-Costas. Therefore, the following references must be included when citing this program:
 
-- Ferro-Costas, D. and Fernández-Ramos, A. (**2021**), *The cathedral package*. [https://​github.​com/​cathe​dralp​kg](https://​github.​com/​cathe​dralp​kg) (Accessed October 30, 2024)
+- Ferro-Costas, D. and Fernández-Ramos, A. (**2021**), *The cathedral package* [Software]. GitHub: [https://​github.​com/​cathe​dralp​kg](https://​github.​com/​cathe​dralp​kg) (Accessed October 30, 2024)
 
 - Ferro-Costas, D. and Fernández-Ramos, A. (**2020**), “New computational tools for chemical kinetics: the Cathedral Package”, *Theor. Chem. Acc.*, **142**:76.
 
